@@ -1,5 +1,4 @@
-# Gravity
-
+# Gravity == Pseudonym ✔️
 I’m a Computer Science and Engineering graduate who’s worked on projects across a mix of areas, including machine learning, computer vision, graph-based systems, and systems-level or modification-heavy work.
 
 Most of what you’ll find here comes from coursework, experiments, and side projects where I’m trying things out, breaking them, and learning how they work. I enjoy building projects end to end, from data processing and modeling to evaluation and visualization, and I care about keeping things clean, reproducible, and well documented so they’re easy to understand and come back to later.
