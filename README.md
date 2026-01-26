@@ -1,4 +1,4 @@
-# 👋 Hi, My programmer name is Grav.
+# Gravity
 
 I’m a Computer Science and Engineering graduate who’s worked on projects across a mix of areas, including machine learning, computer vision, graph-based systems, and systems-level or modification-heavy work.
 
