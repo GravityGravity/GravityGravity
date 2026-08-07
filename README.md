@@ -7,3 +7,6 @@ ML and computer vision experiments, graph-based analysis, and lower-level system
 More recent focus on full-stack development — the skill set most directly aligned with what companies search for within qualified candidates.
 
 More recently, the focus has shifted to full-stack development.
+
+### Bonus Cat Pic:
+![Photo of Dev's Cat](mycat_pic.jpeg)
