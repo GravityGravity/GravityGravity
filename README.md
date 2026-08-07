@@ -9,4 +9,4 @@ More recent focus on full-stack development — the skill set most directly alig
 More recently, the focus has shifted to full-stack development.
 
 ### Bonus Cat Pic:
-![Photo of Dev's Cat](mycat_pic.jpeg)
+<img src="mycat_pic.jpeg" alt="Photo of Dev's Cat" width="300">
