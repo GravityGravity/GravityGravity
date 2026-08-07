@@ -5,8 +5,5 @@ The toughest part of any project is learning the concepts it requires. This prof
 
 ML and computer vision experiments, graph-based analysis, and lower-level systems projects was work done during my years as an undergrad.
 More recent focus on full-stack development — the skill set most directly aligned with what companies search for within qualified candidates.
-
-More recently, the focus has shifted to full-stack development.
-
 ### Bonus Cat Pic:
 <img src="mycat_pic.jpeg" alt="Photo of Dev's Cat" width="300">
