@@ -1,6 +1,9 @@
 # Gravity == DevName
-I’m a Computer Science and Engineering graduate who’s worked on projects across a mix of areas, including machine learning, computer vision, graph-based systems, and systems-level or modification-heavy work.
+Computer Science Grad
 
-Most of what you’ll find here comes from coursework, experiments, and side projects where I’m trying things out, breaking them, and learning how they work.
+The toughest part of any project is learning the concepts it requires. This profile comes from coursework, experiments, and side projects — trying things, breaking them, working out how they function.
 
-This profile is a snapshot of that process. It includes exploratory machine learning and computer vision projects, graph and network experiments, lower-level logic and systems work, and small tools built along the way to support testing and iteration.
+ML and computer vision experiments, graph-based analysis, and lower-level systems projects was work done during my years as an undergrad.
+More recent focus on full-stack development — the skill set most directly aligned with what companies search for within qualified candidates.
+
+More recently, the focus has shifted to full-stack development.
