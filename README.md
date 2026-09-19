@@ -87,7 +87,7 @@ More recent focus on full-stack development — the skill set most directly alig
         height="48"
         alt="Python"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>Python</strong>
     </td>
   </tr>
 </table>
