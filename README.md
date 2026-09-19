@@ -15,8 +15,6 @@ More recent focus on full-stack development — the skill set most directly alig
       />
       <br /><strong>TypeScript</strong>
     </td>
-      <br /><strong>Vue</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
