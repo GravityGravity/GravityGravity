@@ -79,6 +79,17 @@ More recent focus on full-stack development — the skill set most directly alig
       <br /><strong>AWS</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>AWS</strong>
+    </td>
+  </tr>
 </table>
 
 ### Bonus Cat Pic:
