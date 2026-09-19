@@ -2,6 +2,7 @@
 Computer Science Grad
 
 ML and computer vision experiments, graph-based analysis, and lower-level systems projects was work done during my years as an undergrad.
+
 More recent focus on full-stack development — the skill set most directly aligned with what companies search for within qualified candidates.
 
 <table>
