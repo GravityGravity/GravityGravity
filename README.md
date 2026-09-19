@@ -89,6 +89,24 @@ More recent focus on full-stack development — the skill set most directly alig
       />
       <br /><strong>Python</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+        width="48"  
+        height="48"
+        alt="PyTorch"
+      />
+      <br /><strong>PyTorch</strong>
+    </td>
   </tr>
 </table>
 
